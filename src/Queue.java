@@ -1,5 +1,12 @@
 /*
     How to implement stack and queues using Arrays
+
+    GROUP MEMBERS
+
+    COM/B/01-00117/2022
+    COM/B/01-00084/2022
+    COM/B/01-00142/2022
+    COM/B/01-00125/2022
  */
 
 public class Queue<T>
